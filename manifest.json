@@ -1,11 +1,13 @@
 {
   "manifest.js": "/scripts/manifest.715eaefd.js",
   "vendors.js": "/scripts/vendors.d9fca154.js",
-  "main.css": "/styles/2.7aacc982.css",
-  "main.js": "/scripts/main.2f72877e.js",
-  "images/v.jpg": "/images/v.f6630f27.jpg",
-  "images/gradient.jpg": "/images/gradient.54eed698.jpg",
-  "images/lee_ming-cheh.jpg": "/images/lee_ming-cheh.92fef629.jpg",
+  "main.css": "/styles/2.89f8201b.css",
+  "main.js": "/scripts/main.792dc5ea.js",
   "images/64.jpg": "/images/64.92bead0d.jpg",
+  "images/v.jpg": "/images/v.f6630f27.jpg",
+  "images/lee_ming_cheh.jpg": "/images/lee_ming_cheh.92fef629.jpg",
+  "images/gradient.jpg": "/images/gradient.54eed698.jpg",
+  "images/xi_jing_pooh.jpg": "/images/xi_jing_pooh.d4da1ba9.jpg",
+  "images/nylon.jpg": "/images/nylon.4dfcc2f5.jpg",
   "index.html": "/index.html"
 }
